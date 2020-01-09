@@ -18,6 +18,7 @@ class MyHomePage extends StatefulWidget {
   _MyHomePageState createState() => _MyHomePageState();
 }
 
+// 처음
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
